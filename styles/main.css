@@ -287,7 +287,14 @@ footer {
   background-color: #222;
 }
 
-
+footer .rights {
+  font-size: 12px;
+  padding: 15px 0;
+  color: #e7e7e7;
+  text-align: center;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
 
 .footer_widget {
   padding: 60px 0;
