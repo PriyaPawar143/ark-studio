@@ -1,3 +1,4 @@
+
 *,
 *:before,
 *:after {
@@ -354,5 +355,3 @@ footer .rights {
 .footer_widget__list li :active {
   color: #07d3b8;
 }
-
-
